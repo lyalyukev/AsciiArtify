@@ -13,4 +13,4 @@ Get access
 > https://localhost:8080/
 
 # DEMO
-![Image](./demo3.gif)
+![Image](../demo3.gif)
