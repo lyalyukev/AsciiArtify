@@ -38,4 +38,4 @@ When it comes to choosing between Minikube, KinD, and k3d, there is no clear win
 k3d has speed and lightweight design, k3d may be the best choice for us.
 
 # K3D is winner for running PoC - DEMO:
-![Image](demo2.gif)
+![Image](../demo2.gif)
